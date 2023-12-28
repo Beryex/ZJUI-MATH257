@@ -1,5 +1,5 @@
 # MATH 257: Linear Algebra with Computational Applications @ ZJUI Fall 2022 by Bryan Wang
-[Bryan Wang](WangBoyao.02@outlook.com) | MATH 257: Linear Algebra with Computational Applications, Fall 2022  
+[Bryan Wang](https://github.com/Wang-Boyao) | MATH 257: Linear Algebra with Computational Applications, Fall 2022  
 Instructor:   
 [Honold Thomas](https://zjui.intl.zju.edu.cn/node/775) @ Zhejiang University - University of Illinois Urbana-Champaign Institute 
 
